@@ -1,0 +1,53 @@
+element.style{
+
+    .css-1h2lov a {
+        color: rgb(13, 128, 242);
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+    .css-1tmmcd6 {
+        user-select: none;
+        width: 25%;
+        padding: 15px;
+        cursor: pointer;
+        border-left: 1px solid rgb(241, 242, 244);
+        border-bottom: 1px solid rgb(241, 242, 244);
+    }
+
+    .css-1h2lov {
+        color: rgb(0, 0, 0);
+        font-size: 16px;
+    }
+
+body {
+    box-sizing: border-box;
+    font-size: 16 px;
+    line-height: 1.35;
+    font-family: Roboto,Helvetica,sans-serif;
+}
+
+:root, :host {
+    --fa-font-solid: normal 900 1em / 1 "Font Awesome 6 Solid";
+    --fa-font-regular: normal 400 1em / 1 "Font Awesome 6 Regular";
+    --fa-font-light: normal 300 1em / 1 "Font Awesome 6 Light";
+    --fa-font-thin: normal 100 1em / 1 "Font Awesome 6 Thin";
+    --fa-font-duotone: normal 900 1em / 1 "Font Awesome 6 Duotone";
+    --fa-font-sharp-solid: normal 900 1em / 1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-regular: normal 400 1em / 1 "Font Awesome 6 Sharp";
+    --fa-font-sharp-light: normal 300 1em / 1 "Font Awesome 6 Sharp";
+    --fa-font-brands: normal 400 1em / 1 "Font Awesome 6 Brands";
+}
+
+:host, :root {
+    --rem: 16;
+}
+
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+
+}
